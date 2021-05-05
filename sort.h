@@ -34,6 +34,7 @@ void s_HeapAdjust(char *a[],int s,int m){
     a[s] = rc;
 }
 
+
 void s_HeapSort(char *a[],int n){
     int i;
     char *temp;
